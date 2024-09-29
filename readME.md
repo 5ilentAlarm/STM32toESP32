@@ -1,5 +1,5 @@
 # STM32 to ESP32 UART Comms
-A short project used to showcase how one can use the STM32's capablities in conunction with the ESP32's IoT ability.
+A short project used to showcase how one can use the STM32's capablities in conjunction with the ESP32's IoT ability.
 
 ## Hardware used
 STM32F401RE Nucleo-64
