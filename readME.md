@@ -10,7 +10,7 @@ ADS1117 16-bit ADC
 
 ## Software
 ### STM32F401RE
-The firmware for this was written in bare-metal C, meaning that it will only work in the environment I currently have set up, however, the idea would be the same regardless. 
+The firmware for this was written in bare-metal C, using the standard ARM CMSIS headers.
 
 ### ESP32
 I used the ESP-IDF for this so all youd need to do is copy the main file, set the target board to yours, and flash it. 
